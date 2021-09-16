@@ -2,6 +2,9 @@ package clean.code.chapter02;
 
 public class GuessStatisticsMessage {
   private String number;
+  
+  
+  
   private String verb;
   private String pluralModifier;
 
